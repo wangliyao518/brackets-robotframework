@@ -10,7 +10,7 @@ define(function (require, exports, module) {
     var ExtensionUtils      = brackets.getModule("utils/ExtensionUtils");
     var WorkspaceManager    = brackets.getModule('view/WorkspaceManager');
     var EditorManager       = brackets.getModule("editor/EditorManager");
-    var PanelManager        = brackets.getModule("view/PanelManager");
+    //var PanelManager        = brackets.getModule("view/PanelManager");
     var ProjectManager      = brackets.getModule("project/ProjectManager");
     var DocumentManager     = brackets.getModule("document/DocumentManager");
     var MainViewManager     = brackets.getModule("view/MainViewManager");
